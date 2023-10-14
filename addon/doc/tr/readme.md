@@ -15,9 +15,8 @@ arasında geçiş yapabilirsiniz.
    et ve kaldırmadan önce kullanıcıya sor.
 
 ## 1.4 Değişiklikler ##
-*	 Bu sürümden itibaren, konuşma moduyla ilgili mesajlar otomatik olarak
-   NVDA'dan doğru dile çevrilir, eklenti için özel bir çeviri gerekmez
-   (manifest.ini ve betik belgelerinin olası istisnası hariç).
+*	 Bu sürümle, konuşma modu hakkında mesajlar otomatik olarak doğru dilde
+   söylenir, eklenti için özel bir çeviriye gerek kalmadı. 
 
 ## 1.3 Değişiklikler ##
 *	 Çeviri desteğindeki  hata giderildi: dizeleri çevrilebilir yapmak için
@@ -28,6 +27,6 @@ arasında geçiş yapabilirsiniz.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=nb
+[1]: https://addons.nvda-project.org/files/get.php?file=nb
 
-[2]: https://www.nvaccess.org/addonStore/legacy?file=nb-dev
+[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev
